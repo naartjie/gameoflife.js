@@ -1,0 +1,4 @@
+{
+  "node": true,
+  "globals": ["describe", "it", "before"]
+}

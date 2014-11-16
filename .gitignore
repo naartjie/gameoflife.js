@@ -1,0 +1,6 @@
+node_modules
+.gs
+*.log
+logs/**
+loyal-server.sublime-*
+public/app.kauai.co.za
